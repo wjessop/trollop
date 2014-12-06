@@ -2,12 +2,11 @@
 
 by William Morgan (http://masanjin.net/)
 
-Main page: http://trollop.rubyforge.org
+Rubyforge page: https://rubygems.org/gems/trollop
 
-Release announcements and comments: http://masanjin.net/blog/label/trollop/.
+Release announcements and comments: http://masanjin.net/blog/label/trollop/
 
-Documentation quickstart: See Trollop.options and then Trollop::Parser#opt.
-Also see the examples at http://trollop.rubyforge.org/.
+Documentation: http://www.rubydoc.info/gems/trollop/2.0/Trollop
 
 ## DESCRIPTION
 
@@ -35,6 +34,7 @@ Add this line to your application's Gemfile:
 ```
 gem 'trollop'
 ```
+
 then run:
 ```
 bundle install
